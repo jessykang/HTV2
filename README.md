@@ -1,6 +1,6 @@
 # Hack the Valley 2 - Opinio
 
-This samples shows how to analyze the sentiment of webpages using a csv file of URLs using the indico API [a link](https://indico.io/docs).
+This samples shows how to analyze the sentiment of webpages using a csv file of URLs using the [Indico API](https://indico.io/docs).
 
 ## Configuration 
 
